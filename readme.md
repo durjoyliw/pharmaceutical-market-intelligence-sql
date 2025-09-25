@@ -3,9 +3,6 @@
 ## Business Context
 In this portfolio analysis, I examined pharmaceutical market performance and drug safety data from the perspective of a Data Analyst at a pharmaceutical consultancy supporting the Product Development and Marketing teams' strategic decisions regarding drug portfolio optimization, competitive positioning, and patient safety initiatives.
 
-## Business Context
-In this portfolio analysis, I examined Zoom's subscription performance during the critical 2020-2021 period from the perspective of a Business Analyst supporting the Sales and Marketing teams' strategic planning and revenue recovery initiatives following the unprecedented pandemic-driven growth and subsequent market stabilization.
-
 ## Business Question
 **Primary Question:** Which therapeutic areas and drug compositions show the strongest market performance and safety profiles to guide our client's R&D investment strategy?
 
